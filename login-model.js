@@ -33,7 +33,7 @@ class LoginModel extends FlutterFlowModel {
     passwordTextFieldController?.dispose();
   }
 
-  /// Action blocks are added here.
+  /// Action blocks are added here. bla
 
   /// Additional helper methods are added here.
 }
