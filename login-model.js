@@ -13,6 +13,7 @@ class LoginModel extends FlutterFlowModel {
   ///  State fields for stateful widgets in this page.
 
   final unfocusNode = FocusNode();
+  
   // State field(s) for emailTextField widget.
   TextEditingController? emailTextFieldController;
   String? Function(BuildContext, String?)? emailTextFieldControllerValidator;
